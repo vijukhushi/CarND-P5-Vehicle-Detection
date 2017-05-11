@@ -14,4 +14,4 @@ This is the P5 or final project for the Term #1 of Udacity Car Nano Degree. I ha
 
 ### Video:
 
-Video display of Lane boundaries with Lane Curvature and Vechicle Position - https://youtu.be/lla39gZ3ED0
+Video display of cars being detected - https://youtu.be/lla39gZ3ED0
