@@ -10,7 +10,7 @@ This is the P5 or final project for the Term #1 of Udacity Car Nano Degree. I ha
   * Run pipeline on a video stream (start with the test_video.mp4 and later implement on full project_video.mp4) and create a heat map of recurring detections frame by frame to reject outliers and follow detected vehicles.
   * Estimate a bounding box for vehicles detected.
 
-******* Complete Project report with all rubric points is in the file - "CarND-Vehicle-Detection-P5-Report.ipynb" *******
+*** Complete Project report with all rubric points is in the file - "CarND-Vehicle-Detection-P5-Report.ipynb" ***
 
 ### Video:
 
